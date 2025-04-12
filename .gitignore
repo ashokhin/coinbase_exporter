@@ -1,0 +1,5 @@
+/.vscode
+/s3_exporter
+test_config.yml
+bin/**
+*.tar.gz
